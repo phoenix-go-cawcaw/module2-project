@@ -1,0 +1,25 @@
+{
+  "name": "module2-project",
+  "version": "1.0.0",
+  "description": "How to download express: Open the terminal using cmd and first enter \"npm init -y\", then enter \"npm i express\"\r   - In the package.json file, if not added, add \"type\" underneath \"description\". For \"type\", input \"type\": \"module\".\r How to download mysql2: Open the terminal using cmd and enter \"npm i mysql2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoenix-go-cawcaw/module2-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/phoenix-go-cawcaw/module2-project/issues"
+  },
+  "homepage": "https://github.com/phoenix-go-cawcaw/module2-project#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.16.2"
+  }
+}
